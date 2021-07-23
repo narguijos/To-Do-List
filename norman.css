@@ -1,0 +1,25 @@
+body {
+  background-color: #e8a87c;
+  text-align: center;
+}
+
+.lista {
+  text-transform: uppercase;
+  font-weight: 800;
+  color: rgb(230, 220, 223);
+}
+
+.line-one {
+  color: rgb(12, 3, 58);
+  font-weight: 650;
+}
+
+.line-two {
+  color: rgb(87, 57, 18);
+  font-weight: 650;
+}
+
+.line-three {
+  color: rgb(110, 4, 4);
+  font-weight: 650;
+}
